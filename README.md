@@ -1,2 +1,2 @@
 # GroceryReceipt
-A Java Language Project that comtains Arrays and Loops.
+A Java Language Project that contains Arrays and Loops.
